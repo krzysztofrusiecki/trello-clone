@@ -99,3 +99,4 @@ shellAppWorkspaces
 .env.production.local
 
 web/src/stories
+.vscode
